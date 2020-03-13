@@ -9,7 +9,7 @@ main {
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	background: url('./imgs/background.jpeg') no-repeat center/cover;
+	background: url('./imgs/background.jpeg') no-repeat 25% / cover;
 }
 
 .title {
@@ -24,7 +24,7 @@ main {
 
 h1 {
 	font-family: 'Muli', sans-serif;
-	font-size: 3em;
+	font-size: 2em;
 	display: inline;
 	vertical-align: middle;
 	text-transform: uppercase;
