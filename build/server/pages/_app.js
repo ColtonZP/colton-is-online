@@ -108,8 +108,8 @@ module.exports = __webpack_require__("1TCz");
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("cDcd");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("zPlV");
-/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _styles_globals_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("H/sG");
+/* harmony import */ var _styles_globals_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_scss__WEBPACK_IMPORTED_MODULE_1__);
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -125,17 +125,17 @@ function MyApp({
 
 /***/ }),
 
+/***/ "H/sG":
+/***/ (function(module, exports) {
+
+
+
+/***/ }),
+
 /***/ "cDcd":
 /***/ (function(module, exports) {
 
 module.exports = require("react");
-
-/***/ }),
-
-/***/ "zPlV":
-/***/ (function(module, exports) {
-
-
 
 /***/ })
 
