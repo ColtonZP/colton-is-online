@@ -1,0 +1,43 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background: url('./imgs/background.jpeg') no-repeat 25% / cover;
+}
+
+.title {
+	background: rgba(255, 255, 255, 0.1);
+	padding: 2em 1em;
+	text-align: center;
+	vertical-align: middle;
+	width: 100vw;
+	backdrop-filter: blur(5px);
+	-webkit-backdrop-filter: blur(5px);
+}
+
+h1 {
+	font-family: 'Muli', sans-serif;
+	font-size: 2em;
+	display: inline;
+	vertical-align: middle;
+	text-transform: uppercase;
+}
+
+a,
+img {
+	height: 2em;
+	width: 2em;
+	margin: 0 1em;
+	background: none;
+	color: transparent;
+}
+
+@media screen and (min-width: 768px) {
+}
